@@ -45,6 +45,13 @@ Hi! My name is James Blazek.
     <span style="color: #000000">Turtle</span>
 </a>
 
+<a href="{{site.baseurl}}/wordgame" class="button small" style="background-color: #3aa76d">
+    Word Game
+</a>
+<a href="{{site.baseurl}}/calculator" class="button small" style="background-color: #ff9f1c">
+    Calculator
+</a>
+
 <br>
 
 <!-- Contact Section -->
