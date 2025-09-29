@@ -51,6 +51,9 @@ Hi! My name is James Blazek.
 <a href="{{site.baseurl}}/calculator" class="button small" style="background-color: #ff9f1c">
     Calculator
 </a>
+<a href="{{site.baseurl}}/tictactoe/" class="button small" style="background-color: #8e44ad; color: #fff;">
+    Tic Tac Toe
+</a>
 
 <br>
 
