@@ -59,11 +59,10 @@ Throughtout this trimester I had to solve many problems with my engine. Here are
 
 1. Kali Linux crashes. This happened when my Kali Linux crashed causing my session to be broken. I was then no longer able to access the file and it would never delete. I solved this problem by swapping to Ubunto Mobile while waiting for my session to be fixed
 
-![Kasm Breaking Image](KasmBreakPicture.png)
 
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
 
-## Sprint 2: Snake Word and Word Game Hack
+## Sprint 2: Snake Game and Word Game Hack
 
 After we had all our machines set up and prepared we moved on to a new project. This project required us to make changes to already existing hacks and make it better
 
@@ -96,7 +95,8 @@ Our plan for the Mansion game was to make a final boss fight to escape the mansi
 #### Pre-Boss Fight Room
 In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room.
 
-#### Pre-Boss Room Code
+#### How Pre-Boss Room Work
+Our pre boss room works by doing 
 
 #### Reaper Boss
 The Reaper was a skeleton and and you fo
@@ -106,5 +106,5 @@ The Reaper was a skeleton and and you fo
 
 Kanban boards are an effective and helpful tool for keeping your group on track when working on a project. They work by taking a bunch of issues and splitting them into different sections. Issues are problems or objectives that you need to complete in your code. 
 
-Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is
+Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
 
