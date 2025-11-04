@@ -5,7 +5,7 @@ title: Retrospective Blog
 description: My Blog of Trimester 1 Computer Science
 categories: [Javascript]
 author: James
-permalink: /retrospective
+permalink: /retrospectivefsa
 ---
 
 # James Blazek Retrospective
