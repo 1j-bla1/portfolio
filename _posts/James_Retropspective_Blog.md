@@ -32,6 +32,13 @@ An example of me doing this is:
 
 `Git clone https://github.com/1j-bla1/portfolio.git`
 
+After git cloning you finally get the code to your local machine. Following my example you can then access the repo through typing:
+
+`cd portfolio`
+
+`code .`
+
+Now you can make change to your repo
 
 
 
