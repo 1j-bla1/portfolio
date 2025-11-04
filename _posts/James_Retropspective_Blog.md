@@ -47,7 +47,17 @@ Finally once you made your changes you can commit them to github. By committing 
 
 ### Problems I experianced with Engine and Files
 
-Throughtout this trimester I had to solve many problems with my engine
+Throughtout this trimester I had to solve many problems with my engine. Here are some of my struggles with my Kasm and Kali Linux
+
+1. Kali Linux crashes. This happened when my Kali Linux crashed causing my session to be broken. I was then no longer able to access the file and it would never delete. I solved this problem by swapping to Ubunto Mobile while waiting for my session to be fixed
+
+
+
+
+
+2. I also expirienced problems
+
+
 
 
 
