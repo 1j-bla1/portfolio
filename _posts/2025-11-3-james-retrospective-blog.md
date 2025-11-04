@@ -2,9 +2,8 @@
 layout: post
 title: James Blazek Retrospective
 description: This is my learnings from Computer Sci Trimester 1
-categories: ['DevOps', 'Python']
+categories: ['Retrospective']
 permalink: /retrospective
-menu: nav/tools_setup.html
 toc: True
 comments: True
 ---
