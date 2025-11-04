@@ -3,9 +3,9 @@ toc: False
 layout: post
 title: Retrospective Blog
 description: My Blog of Trimester 1 Computer Science
-categories: ['Retrospective']
-author: James Blazek
-permalink: /James_Retrospective
+categories: [Javascript]
+author: James
+permalink: /retrospective
 ---
 
 # James Blazek Retrospective
@@ -14,7 +14,7 @@ permalink: /James_Retrospective
 ## Learnings from Computer Science
 Through this trimester I have learned many things about coding and effective ways to use it. These strategies range from variables to kanban boards. In the beginning I was clueless of how computer science worked and struggled with getting my passwords set up. Now I have improved to the points where I can create many different linse of code. In this Blog I will show you some of the many things I have learned this trimester. 
 
-### Machine Setup and Basic Fundamentals
+### Sprint 1: Machine Setup and Basic Fundamentals
 
 To begin I will start off with getting your machine setup. 
 
@@ -62,6 +62,9 @@ Throughtout this trimester I had to solve many problems with my engine. Here are
 ![Kasm Breaking Image](KasmBreakPicture.png)
 
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
+
+## Sprint 2: Snake Word Game Hack
+
 
 
 
