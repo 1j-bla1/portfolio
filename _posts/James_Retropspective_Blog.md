@@ -1,0 +1,40 @@
+---
+toc: False
+layour: post
+title: Retrospective Blog
+description: put your description here
+categories: ['Retrospective']
+author: James Blazek
+permalink: /Blog/Retrospective
+---
+
+# James Blazek Retrospective
+
+
+## Learnings from Computer Science
+Through this trimester I have learned many things about coding and effective ways to use it. These strategies range from variables to kanban boards. In the beginning I was clueless of how computer science worked and struggled with getting my passwords set up. Now I have improved to the points where I can create many different linse of code. In this Blog I will show you some of the many things I have learned this trimester. 
+
+### Machine Setup
+
+To begin I will start off with getting your machine setup. 
+
+1. First I had to make a github account in order to gain access to repositories. Repositories are where all your code goes. You can make many different repositories which git hub helps keep you organized with.
+
+2. Once I had my account I had to open Kali Linux through Kasm. By doing this I could finally access vscode where I could do all of my work. 
+
+3. First when you enter Kali Linux you need to get into a repo so you can change the code. You first need to git clone a repository in order for you to make changes to it.
+
+4. You do this by going in to the console and typing:
+
+`git clone https://github.com/username/repository.git`
+
+An example of me doing this is:
+
+`Git clone https://github.com/1j-bla1/portfolio.git`
+
+
+
+
+
+
+
