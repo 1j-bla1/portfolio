@@ -1,11 +1,12 @@
 ---
-toc: False
 layout: post
-title: Retrospective Blog
-description: My Blog of Trimester 1 Computer Science
-categories: [Javascript]
-author: James
+title: James Blazek Retrospective
+description: This is my learnings from Computer Sci Trimester 1
+categories: ['DevOps', 'Python']
 permalink: /retrospective
+menu: nav/tools_setup.html
+toc: True
+comments: True
 ---
 
 # James Blazek Retrospective
@@ -70,19 +71,6 @@ After we had all our machines set up and prepared we moved on to a new project. 
 #### Snake Game Hack
 
 For our snake game we made maqany different changes to the game. We made the looks of the game more visually appealing and added many different
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
