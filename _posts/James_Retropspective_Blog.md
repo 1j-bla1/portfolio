@@ -14,7 +14,7 @@ permalink: /Blog/Retrospective
 ## Learnings from Computer Science
 Through this trimester I have learned many things about coding and effective ways to use it. These strategies range from variables to kanban boards. In the beginning I was clueless of how computer science worked and struggled with getting my passwords set up. Now I have improved to the points where I can create many different linse of code. In this Blog I will show you some of the many things I have learned this trimester. 
 
-### Machine Setup
+### Machine Setup and Basic Fundamentals
 
 To begin I will start off with getting your machine setup. 
 
@@ -38,7 +38,24 @@ After git cloning you finally get the code to your local machine. Following my e
 
 `code .`
 
-Now you can make change to your repo
+Now you can make change to your code in the repo.
+
+You then must learn to navigate through the folders of your new repo. Once you enter a file you want to make changes to you can change the code that is written there. Make sure to press control + s to save the changes you made.
+
+Finally once you made your changes you can commit them to github. By committing your changes it will change your code in your repo allowing you to access and see your changes in a website. Once you click commit it will ask you to log in. Finally press sync changes and all of you coding changes will appear in your browser once the file uploads.
+
+
+### Problems I experianced with Engine and Files
+
+Throughtout this trimester I had to solve many problems with my engine
+
+
+
+
+
+
+
+
 
 
 
