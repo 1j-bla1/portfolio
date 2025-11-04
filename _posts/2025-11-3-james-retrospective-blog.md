@@ -69,7 +69,20 @@ After we had all our machines set up and prepared we moved on to a new project. 
 
 #### Snake Game Hack
 
-For our snake game we made maqany different changes to the game. We made the looks of the game more visually appealing and added many different
+For our snake game we made many different changes to the game. We made the looks of the game more visually appealing and added many different gamemodes for more fun.
+
+Link to Updated Snake Game:
+https://compsciteam.github.io/student/snake/
 
 
+### Word Game Hack 
+
+For our word game we made a very large update to the game to make it more fun and enjoyable. I first added a updated finish screen since the old finish screen used to be a tiny text bubble that appaered.
+
+Link to updated Word Game:
+https://compsciteam.github.io/student/wordgame
+
+## Sprint 3: Mansion Game
+
+The mansion game was by far my biggest challenge. For this game we had to work together as a team to create our level. My team consisting of Anish, Samarath, Vihaan, Krish, and Pranay we decided that we were going to back a boss fight for the final level. This means that we had to put a lot of effort into this in order to make the game look good and to be fun for players.
 
