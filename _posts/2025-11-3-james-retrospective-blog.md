@@ -86,3 +86,11 @@ https://compsciteam.github.io/student/wordgame
 
 The mansion game was by far my biggest challenge. For this game we had to work together as a team to create our level. My team consisting of Anish, Samarath, Vihaan, Krish, and Pranay we decided that we were going to back a boss fight for the final level. This means that we had to put a lot of effort into this in order to make the game look good and to be fun for players.
 
+There were many different concepts that we had to use in order to make our game in an effective manner. I will tell you our plan and concepts that we used to finish our game
+
+### Kanbans and Issues
+
+Kanban boards are an effective and helpful tool for keeping your group on track when working on a project. They work by taking a bunch of issues and splitting them into different sections. Issues are problems or objectives that you need to complete in your code. 
+
+Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is
+
