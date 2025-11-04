@@ -72,6 +72,7 @@ After we had all our machines set up and prepared we moved on to a new project. 
 For our snake game we made many different changes to the game. We made the looks of the game more visually appealing and added many different gamemodes for more fun.
 
 Link to Updated Snake Game:
+
 https://compsciteam.github.io/student/snake/
 
 
@@ -80,6 +81,7 @@ https://compsciteam.github.io/student/snake/
 For our word game we made a very large update to the game to make it more fun and enjoyable. I first added a updated finish screen since the old finish screen used to be a tiny text bubble that appaered.
 
 Link to updated Word Game:
+
 https://compsciteam.github.io/student/wordgame
 
 ## Sprint 3: Mansion Game
@@ -87,6 +89,18 @@ https://compsciteam.github.io/student/wordgame
 The mansion game was by far my biggest challenge. For this game we had to work together as a team to create our level. My team consisting of Anish, Samarath, Vihaan, Krish, and Pranay we decided that we were going to back a boss fight for the final level. This means that we had to put a lot of effort into this in order to make the game look good and to be fun for players.
 
 There were many different concepts that we had to use in order to make our game in an effective manner. I will tell you our plan and concepts that we used to finish our game
+
+### Plan for the Mansion Game
+Our plan for the Mansion game was to make a final boss fight to escape the mansion. This was the final level for the mansion and needed to be a fun and intresting way to finish the game. We decided on a boss named the Reaper to be the final boss.
+
+#### Pre-Boss Fight Room
+In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room.
+
+#### Pre-Boss Room Code
+
+#### Reaper Boss
+The Reaper was a skeleton and and you fo
+
 
 ### Kanbans and Issues
 
