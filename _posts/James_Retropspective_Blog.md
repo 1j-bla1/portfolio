@@ -44,7 +44,15 @@ You then must learn to navigate through the folders of your new repo. Once you e
 
 Finally once you made your changes you can commit them to github. By committing your changes it will change your code in your repo allowing you to access and see your changes in a website. Once you click commit it will ask you to log in. Finally press sync changes and all of you coding changes will appear in your browser once the file uploads.
 
+### Make Command
 
+The make command is a simple but important tool when coding. By going to the console and typing make it will make a version of your project without actually committing it. This will allow you to see if you changes to the code worked before you commit the changes.
+
+Simply type:
+
+`Make`
+
+Into the console log for it to work
 ### Problems I experianced with Engine and Files
 
 Throughtout this trimester I had to solve many problems with my engine. Here are some of my struggles with my Kasm and Kali Linux
