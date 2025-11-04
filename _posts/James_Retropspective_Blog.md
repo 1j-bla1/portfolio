@@ -1,11 +1,11 @@
 ---
 toc: False
-layour: post
+layout: post
 title: Retrospective Blog
-description: put your description here
+description: My Blog of Trimester 1 Computer Science
 categories: ['Retrospective']
 author: James Blazek
-permalink: /Blog/Retrospective
+permalink: /James_Retrospective
 ---
 
 # James Blazek Retrospective
@@ -51,11 +51,9 @@ Throughtout this trimester I had to solve many problems with my engine. Here are
 
 1. Kali Linux crashes. This happened when my Kali Linux crashed causing my session to be broken. I was then no longer able to access the file and it would never delete. I solved this problem by swapping to Ubunto Mobile while waiting for my session to be fixed
 
+![Kasm Breaking Image](KasmBreakPicture.png)
 
-
-
-
-2. I also expirienced problems
+2. A more recenent problem I expierenced was my make not working
 
 
 
