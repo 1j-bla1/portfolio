@@ -266,11 +266,21 @@ Though I enjoyed creating the boss bar it was not my favorite commit of the game
 ### Night at the Museum
 Night at the Museum was a fun experience and was a great opportunity to show off our game we created. Even though the room was loud and crowded we were able to present our boss fight and show all the mechanics we spent time creating. We got good feedback from parents and students alike which was overwhelmingly positive. In all, Night at the Museum was an enjoyable experience for us to see people enjoy our game we created.
 
+### Github Analytics
 
+Here are my final github analytics from my first trimester of Computer Science. Note: This is not all of my commits since some of them are stuck in forked repositories.
+
+My Github Analytics:
+
+![Alt text]({{site.baseurl}}/images/blogImages/Analytics.png "Image of my github analytics")
+
+### What I want to do next for the Project
+
+If me and my team were given more time to do our project I would want to add a few actions to our game. First of I would want to add a way for the player to heal mid boss fight. This would give the player a better chance. I would also want to give the reaper different attacks each stage he reaches. For example if the Reaper losses a certain amount of his health then he will lose his fireball attack and do something different. Lastly I would want to add more attack options for the player. The player could get the ability to block incoming projectiles are use a melee attack. These are some thing I want to add if we had more time with our project.
 
 ### Lessons I learned
 
-1. Throughout this project I learned many important skills when programming. First of all, you need to work effectively as a team. If your team becomes disorganized it will become a lot harder for you to succeed in your project. You need to stay on the same page so you don’t edit the same files at once.
+1. Throughout this project I learned many important skills when programming. First of all, you need to work effectively as a team. If your team becomes disorganized it will become a lot harder for you to succeed in your project. You need to stay on the same page so you don’t edit the same files at once. By doing this we had a successful team and were able to make a entire boss battle. 
 
 2. I also learned the importance of debugging in coding. You are never going to be perfect in your coding so you need to debug eros to make your game work correctly. This is important even when using A.I. to help you since you need to direct it to fix your problems. If you don’t give A.I. the correct directions your code will never be fixed.
 
