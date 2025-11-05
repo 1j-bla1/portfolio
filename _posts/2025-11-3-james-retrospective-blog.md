@@ -67,7 +67,7 @@ Image of Kasm glitch:
 
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
 
-### : Snake Game and Word Game Hack
+### Snake Game and Word Game Hack
 
 After we had all our machines set up and prepared we moved on to a new project. This project required us to make changes to already existing hacks and make it better
 
@@ -79,6 +79,12 @@ Link to Updated Snake Game:
 
 https://compsciteam.github.io/student/snake/
 
+Updated Snake Game:
+
+
+![Alt text]({{site.baseurl}}/images/blogImages/Updated_Snake.png "Image of Updated Snake")
+
+![Alt text]({{site.baseurl}}/images/blogImages/SnakeMenu.png "Image of Updated Snake Menu")
 
 ### Word Game Hack 
 
@@ -127,7 +133,7 @@ Booleans are a more simple concept. Booleans are things that can be true or fals
 
 `Let Username = true;`
 
-Mathematical Expressions:
+### Mathematical Expressions:
 Mathematical expressions are basically just math. In Javascript it follows the same rules as the math you do in school but has different signs then you would normally use.
 
 Basic Operators:
