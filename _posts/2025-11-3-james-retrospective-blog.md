@@ -114,7 +114,9 @@ The Reaper is a skeleton, armed with many different attacks. First he shoots arr
 
 ###  🏆 Victory Screen 🏆
 
-After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added this music to the final screen.
+After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added the music to the final screen. I also made some code that automatically kills the boss when p is pressed so you can skip the boss fight if needed. This was useful when testing to see if the end screen would work.
+
+![Alt text]({{site.baseurl}}/images/blogImages/EndScreen.png "Image of Victory Screen")
 
 ### Kanbans and Issues
 
@@ -128,11 +130,15 @@ Imagine it like a bunch of sticky notes. Each sticky note has a goal written on 
 
 My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
 
+
+Different Healthbar Colors:
 ![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth1.png "Image of first healthbar")
 
 ![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth2.png "Image of second healthbar")
 
 ![Alt text]({{site.baseurl}}/images/blogImages/Reaper3.png "Image of third healthbar")
+
+Proof of my healthbar commits:
 
 ![Alt text]({{site.baseurl}}/images/blogImages/Commits.png "Image of healthbar commits")
 
