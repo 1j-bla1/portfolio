@@ -67,7 +67,7 @@ Image of Kasm glitch:
 
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
 
-## Sprint 2: Snake Game and Word Game Hack
+### : Snake Game and Word Game Hack
 
 After we had all our machines set up and prepared we moved on to a new project. This project required us to make changes to already existing hacks and make it better
 
@@ -87,6 +87,19 @@ For our word game we made a very large update to the game to make it more fun an
 Link to updated Word Game:
 
 https://compsciteam.github.io/student/wordgame
+
+### Sprint 2: Coding Concepts and Homework
+
+During this project we had to work as a team in order to create a functioning lesson that taught a concept of coding. I was involved in creating the variable and functions lesson. For this project we split our team up into two sub groups. I was apart of subteam 1 and we created the variables and functions lesson. By going through all the different groups lessons and homework I was able to gain a undertstanding on many different coding concepts.
+
+Link to the Variable Lesson:
+
+https://compsciteam.github.io/student/javascript/variables/tinkerers-lesson
+
+Link to Function Lesson:
+
+https://compsciteam.github.io/student/javascript/functions/tinkerers-lesson
+
 
 ## Sprint 3: Mansion Game
 
