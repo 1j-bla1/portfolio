@@ -52,7 +52,7 @@ The make command is a simple but important tool when coding. By going to the con
 
 Simply type:
 
-`Make`
+`make`
 
 Into the console log for it to work
 
