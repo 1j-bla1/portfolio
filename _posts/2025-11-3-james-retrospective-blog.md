@@ -46,7 +46,7 @@ You then must learn to navigate through the folders of your new repo. Once you e
 
 Finally once you made your changes you can commit them to github. By committing your changes it will change your code in your repo allowing you to access and see your changes in a website. Once you click commit it will ask you to log in. Finally press sync changes and all of you coding changes will appear in your browser once the file uploads.
 
-### Make Command
+###  🔨 Make Command 🔨
 
 The make command is a simple but important tool when coding. By going to the console and typing make it will make a version of your project without actually committing it. This will allow you to see if you changes to the code worked before you commit the changes.
 
@@ -106,7 +106,7 @@ https://compsciteam.github.io/student/wordgame
 
 ![Alt text]({{site.baseurl}}/images/blogImages/WordGameMenu.png "Image of Updated Word Game Menu")
 
-### Sprint 2: Coding Concepts and Homework
+## Sprint 2: Coding Concepts and Homework
 
 During this project we had to work as a team in order to create a functioning lesson that taught a concept of coding. I was involved in creating the variable and functions lesson. For this project we split our team up into two sub groups. I was apart of subteam 1 and we created the variables and functions lesson. By going through all the different groups lessons and homework I was able to gain a undertstanding on many different coding concepts.
 
@@ -262,6 +262,11 @@ Proof of my healthbar commits:
 ### My Favorite Tech Accomplishment
 
 Though I enjoyed creating the boss bar it was not my favorite commit of the game. My favorite addition I made to the game and my favorite addition this entire trimester was adding the music. The music was a very important part of our game as it made the player more immersed in the level. I ended up adding the beginning Legend of Zelda theme to the pre boss fight room and the final music on the victory screen. These changes made the game far more immersive and seeing the music I chose for the game being implemented was really fun.
+
+### Night at the Museum
+Night at the Museum was a fun experience and was a great opportunity to show off our game we created. Even though the room was loud and crowded we were able to present our boss fight and show all the mechanics we spent time creating. We got good feedback from parents and students alike which was overwhelmingly positive. In all, Night at the Museum was an enjoyable experience for us to see people enjoy our game we created.
+
+
 
 ### Lessons I learned
 
