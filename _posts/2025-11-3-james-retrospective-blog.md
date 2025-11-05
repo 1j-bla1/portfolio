@@ -94,13 +94,13 @@ There were many different concepts that we had to use in order to make our game 
 ### Plan for the Mansion Game
 Our plan for the Mansion game was to make a final boss fight to escape the mansion. This was the final level for the mansion and needed to be a fun and intresting way to finish the game. We decided on a boss named the Reaper to be the final boss.
 
-#### Pre-Boss Fight Room
+### Pre-Boss Fight Room
 In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room. 
 
 #### How pre Boss Room Works
 Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room. My main contributions to this room was adding the music and adding a invisible sprite. This invisible sprite is what you collide with to get to the next room.
 
-####  💀 Boss Room  💀
+###  💀 Boss Room  💀
 Once you enter the boss room it takes you to a boss fight. There is a boss called the repear who you will fight. There is also a change in music, and 2 health bards, 1 for the player and 1 for the boss. I added the boss health bar which changes color based on how low the boss health is. The player can attack the boss which causes his health to go down.
 
 #### How Boss Room works
@@ -111,10 +111,14 @@ The Reaper is a skeleton, armed with many different attacks. First he shoots arr
 
 ###  🏆 Victory Screen 🏆
 
-After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added this music to the final screen
+After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added this music to the final screen.
 ### Kanbans and Issues
 
 Kanban boards are an effective and helpful tool for keeping your group on track when working on a project. They work by taking a bunch of issues and splitting them into different sections. Issues are problems or objectives that you need to complete in your code. 
 
 Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
+
+### Biggest Tech Accomplishment
+
+My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
 
