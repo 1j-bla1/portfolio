@@ -128,11 +128,13 @@ Imagine it like a bunch of sticky notes. Each sticky note has a goal written on 
 
 My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
 
-![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth1.png "Image of ")
+![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth1.png "Image of first healthbar")
 
-![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth2.png "Image of Kanban Board")
+![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth2.png "Image of second healthbar")
 
-![Alt text]({{site.baseurl}}/images/blogImages/Reaper3.png "Image of Kanban Board")
+![Alt text]({{site.baseurl}}/images/blogImages/Reaper3.png "Image of third healthbar")
+
+![Alt text]({{site.baseurl}}/images/blogImages/Commits.png "Image of healthbar commits")
 
 ### My Favorite Tech Accomplishment
 
