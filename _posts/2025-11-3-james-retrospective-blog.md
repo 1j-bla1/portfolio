@@ -121,7 +121,7 @@ Kanban boards are an effective and helpful tool for keeping your group on track 
 
 Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
 
-![Kasm Break Screenshot](/images/blogImages/KanbanBoardImage.jpeg)
+![Alt text]({{site.baseurl}}/images/blogImages/KanbanBoardImage.png "Image of Kanban Board")
 
 ### Biggest Tech Accomplishment
 
@@ -133,9 +133,13 @@ Though I enjoyed creating the boss bar it was not my favorite commit of the game
 
 ### Lessons I learned
 
-Throughout this project I learned many important skills when programming. First of all, you need to work effectively as a team. If your team becomes disorganized it will become a lot harder for you to succeed in your project. You need to stay on the same page so you don’t edit the same files at once.
+1. Throughout this project I learned many important skills when programming. First of all, you need to work effectively as a team. If your team becomes disorganized it will become a lot harder for you to succeed in your project. You need to stay on the same page so you don’t edit the same files at once.
 
-I also learned the importance of debugging in coding. You are never going to be perfect in your coding so you need to debug eros to make your game work correctly. This is important even when using A.I. to help you since you need to direct it to fix your problems. If you don’t give A.I. the correct directions your code will never be fixed.
+2. I also learned the importance of debugging in coding. You are never going to be perfect in your coding so you need to debug eros to make your game work correctly. This is important even when using A.I. to help you since you need to direct it to fix your problems. If you don’t give A.I. the correct directions your code will never be fixed.
 
-Lastly I discovered how fun it can be to code a game. Though it is challenging and lots of problems come up, seeing the final result of all your hard work paying off is worth all the time. This project made me discover that coding doesn’t have to be just boring lines, but instead it can be a way to spread your creativity and ideas throughout a game.
+3. Lastly I discovered how fun it can be to code a game. Though it is challenging and lots of problems come up, seeing the final result of all your hard work paying off is worth all the time. This project made me discover that coding doesn’t have to be just boring lines, but instead it can be a way to spread your creativity and ideas throughout a game.
 
+
+
+## Conclusion
+In conclusion, computer science has been a fun class that has taught me the importance of working as a team, using github, thinking on ways to solve challenging problems(Debugging), and having fun through making games.
