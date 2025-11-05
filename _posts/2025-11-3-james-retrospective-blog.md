@@ -93,10 +93,13 @@ There were many different concepts that we had to use in order to make our game 
 Our plan for the Mansion game was to make a final boss fight to escape the mansion. This was the final level for the mansion and needed to be a fun and intresting way to finish the game. We decided on a boss named the Reaper to be the final boss.
 
 #### Pre-Boss Fight Room
-In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room.
+In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room. 
 
 #### How Pre-Boss Room Work
-Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room
+Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room. My main contributions to this room was adding the music and adding a invisible sprite. This invisible sprite is what brings you to the next room.
+
+### Boss Room
+Once you enter the boss room it takes you to a boss fight. There is a boss called the repear who you will fight. There is also a change in music, and 2 health bards, 1 for the player and 1 for the boss. I added the boss health bar which changes color based on how low the boss health is.
 
 #### Reaper Boss
 The Reaper was a skeleton and and you fo
