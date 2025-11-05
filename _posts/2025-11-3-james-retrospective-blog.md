@@ -71,7 +71,7 @@ Image of Kasm glitch:
 
 After we had all our machines set up and prepared we moved on to a new project. This project required us to make changes to already existing hacks and make it better
 
-#### Snake Game Hack
+### Snake Game Hack
 
 For our snake game we made many different changes to the game. We made the looks of the game more visually appealing and added many different gamemodes for more fun.
 
@@ -88,11 +88,15 @@ Updated Snake Game:
 
 ### Word Game Hack 
 
-For our word game we made a very large update to the game to make it more fun and enjoyable. I first added a updated finish screen since the old finish screen used to be a tiny text bubble that appaered.
+For our word game we made a very large update to the game to make it more fun and enjoyable. I first added a updated finish screen since the old finish screen used to be a tiny text bubble that appeared. We then updated it to where the letters lined up better.
 
 Link to updated Word Game:
 
 https://compsciteam.github.io/student/wordgame
+
+![Alt text]({{site.baseurl}}/images/blogImages/WordGameUpdate.png "Image of Updated Word Game Typing")
+
+![Alt text]({{site.baseurl}}/images/blogImages/WordGameMenu.png "Image of Updated Word Game Menu")
 
 ### Sprint 2: Coding Concepts and Homework
 
