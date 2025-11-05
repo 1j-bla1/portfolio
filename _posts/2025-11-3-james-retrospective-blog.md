@@ -241,6 +241,9 @@ Kanban boards are an effective and helpful tool for keeping your group on track 
 
 Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
 
+This is a complete example for our Mansion game kanban board. The ready section is where objectives that are ready to be worked on go in progress are things people are working on. It then goes to review where we make sure the objective of the issue is complete. Once this is confirmed it goes to completion and people can move on to the next objectives. We added a scrapped idea section but luckily we never had to use it.
+
+
 ![Alt text]({{site.baseurl}}/images/blogImages/KanbanBoardImage.png "Image of Kanban Board")
 
 ### Biggest Tech Accomplishment
