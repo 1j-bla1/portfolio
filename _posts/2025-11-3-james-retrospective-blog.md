@@ -63,7 +63,7 @@ This is a simple but vital rule in your code. When you git pull it updates your 
 
 The reason this is so important is because if you and a group member change the same file and don’t git pull you are creating 2 different files in the same repo. This means one of your group member’s work has to be deleted. This is a foolish mistake which we unfortunately did by accident a few times
 
-### Problems I experianced with Engine and Files
+### Problems I Experienced with Engine and Files
 
 Throughtout this trimester I had to solve many problems with my engine. Here are some of my struggles with my Kasm and Kali Linux
 
@@ -85,7 +85,7 @@ For our snake game we made many different changes to the game. We made the looks
 
 Link to Updated Snake Game:
 
-https://compsciteam.github.io/student/snake/
+[Link to our Snake Game](https://compsciteam.github.io/student/snake/)
 
 Updated Snake Game:
 
@@ -100,7 +100,7 @@ For our word game we made a very large update to the game to make it more fun an
 
 Link to updated Word Game:
 
-https://compsciteam.github.io/student/wordgame
+[Updated Word Game](https://compsciteam.github.io/student/wordgame)
 
 ![Alt text]({{site.baseurl}}/images/blogImages/WordGameUpdate.png "Image of Updated Word Game Typing")
 
@@ -112,11 +112,11 @@ During this project we had to work as a team in order to create a functioning le
 
 Link to the Variable Lesson:
 
-https://compsciteam.github.io/student/javascript/variables/tinkerers-lesson
+[Variable Lesson Link](https://compsciteam.github.io/student/javascript/variables/tinkerers-lesson)
 
 Link to Function Lesson:
 
-https://compsciteam.github.io/student/javascript/functions/tinkerers-lesson
+[Function Lesson Link](https://compsciteam.github.io/student/javascript/functions/tinkerers-lesson)
 
 ### Coding Concepts from Lessons
 
@@ -366,7 +366,7 @@ What this code does is make a class named Person and a method called greet. When
 
 Link with all my Lesson Homeworks:
 
-[Link to lesson Links](https://1j-bla1.github.io/portfolio/search/#JavaScript)
+[Link to Homework Links](https://1j-bla1.github.io/portfolio/search/#JavaScript)
 
 
 ## Sprint 3: Mansion Game
@@ -377,7 +377,11 @@ There were many different concepts that we had to use in order to make our game 
 
 Link to our Level 6 Game:
 
-https://compsciteam.github.io/testpages/gamify/mansion6
+[Link to our Boss Fight Game](https://compsciteam.github.io/testpages/gamify/mansion6)
+
+Link to the Entire Game:
+
+[Full Mansion Game](https://pages.opencodingsociety.com/gamify/mansionGame)
 
 ### Plan for the Mansion Game
 Our plan for the Mansion game was to make a final boss fight to escape the mansion. This was the final level for the mansion and needed to be a fun and intresting way to finish the game. We decided on a boss named the Reaper to be the final boss.
