@@ -189,12 +189,15 @@ Example:
 This is read as 5 to the power of 2 which would get you 25.
 
 
-
 ## Sprint 3: Mansion Game
 
 The mansion game was by far my biggest challenge. For this game we had to work together as a team to create our level. My team consisting of Anish, Samarath, Vihaan, Krish, and Pranay we decided that we were going to back a boss fight for the final level. This means that we had to put a lot of effort into this in order to make the game look good and to be fun for players.
 
 There were many different concepts that we had to use in order to make our game in an effective manner. I will tell you our plan and concepts that we used to finish our game
+
+Link to our Level 6 Game:
+
+https://compsciteam.github.io/testpages/gamify/mansion6
 
 ### Plan for the Mansion Game
 Our plan for the Mansion game was to make a final boss fight to escape the mansion. This was the final level for the mansion and needed to be a fun and intresting way to finish the game. We decided on a boss named the Reaper to be the final boss.
