@@ -73,7 +73,7 @@ After we had all our machines set up and prepared we moved on to a new project. 
 
 ### Snake Game Hack
 
-For our snake game we made many different changes to the game. We made the looks of the game more visually appealing and added many different gamemodes for more fun.
+For our snake game we made many different changes to the game. We made the looks of the game more visually appealing and added many different gamemodes for more fun. We changed the color of the snake to blue and the different gamemodes make changes to the snakes speed. We also added different backgrounds for different looks to our game.
 
 Link to Updated Snake Game:
 
@@ -122,6 +122,24 @@ Example of a Variable:
 `let name=”James”;`
 
 `const name=”James”;`
+
+### Functions:
+
+Functions are another extremely useful piece of code. Functions are a reusable piece of code that you can use over and over again. Imagine it like a box. If you put code in the box it will be in the function. You can then use that box over and over again with the items inside it. It is the same with functions. You put code in the function and can call it over and over again to resuse the code
+
+Example of a Function:
+
+`function greet(myname, myage){`
+
+ `message = "Hello, " + myname + " (" + myage + ")!";`
+
+ `document.getElementById("output2").innerText += "\n" + message;`
+
+   ` }`
+
+`greet("James", 14);`
+
+This creates a function called greet. It then takes parameters when it is called. In this case when greet is called James and 14 are the parameters. It then prints this to the console log. You can call this function over and over again which makes them extremely useful.
 
 ### Arrays:
 Arrays are another important concept in our game. Arrays are a list of multiple different values which can then be called. Imagine you put multiple different fruits in a box. You then can take 1 or as many fruits as you want out of the box. This is similar to how an array works.
@@ -240,9 +258,11 @@ Though I enjoyed creating the boss bar it was not my favorite commit of the game
 
 2. I also learned the importance of debugging in coding. You are never going to be perfect in your coding so you need to debug eros to make your game work correctly. This is important even when using A.I. to help you since you need to direct it to fix your problems. If you don’t give A.I. the correct directions your code will never be fixed.
 
-3. Lastly I discovered how fun it can be to code a game. Though it is challenging and lots of problems come up, seeing the final result of all your hard work paying off is worth all the time. This project made me discover that coding doesn’t have to be just boring lines, but instead it can be a way to spread your creativity and ideas throughout a game.
+3. I learned many different coding concepts that are vital when programmin. Without learning concepts such as variables and functions through Sprint 2 it would be very challenging to complete any type of code.
+
+4. Lastly I discovered how fun it can be to code a game. Though it is challenging and lots of problems come up, seeing the final result of all your hard work paying off is worth all the time. This project made me discover that coding doesn’t have to be just boring lines, but instead it can be a way to spread your creativity and ideas throughout a game.
 
 
+## 🎉 Conclusion 🎉
+In conclusion, computer science has been a fun class that has taught me the importance of working as a team, using github, thinking on ways to solve challenging problems(Debugging), and having fun through making games. I am glad that I got the oppurtunity to learn different concepts in code so I can code games. 
 
-## Conclusion
-In conclusion, computer science has been a fun class that has taught me the importance of working as a team, using github, thinking on ways to solve challenging problems(Debugging), and having fun through making games.
