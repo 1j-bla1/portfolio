@@ -63,7 +63,7 @@ Throughtout this trimester I had to solve many problems with my engine. Here are
 
 Image of Kasm glitch:
 
-![Kasm Break Screenshot](/images/blogImages/KasmBreakPicture.jpeg)
+![Alt text]({{site.baseurl}}/images/blogImages/KasmBreakPicture.png "Image of Broken Kasm")
 
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
 
