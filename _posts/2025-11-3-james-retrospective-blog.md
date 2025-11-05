@@ -96,7 +96,7 @@ Our plan for the Mansion game was to make a final boss fight to escape the mansi
 In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room.
 
 #### How Pre-Boss Room Work
-Our pre boss room works by doing 
+Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room
 
 #### Reaper Boss
 The Reaper was a skeleton and and you fo
