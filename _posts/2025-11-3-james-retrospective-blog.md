@@ -55,6 +55,14 @@ Simply type:
 `Make`
 
 Into the console log for it to work
+
+
+### Git pull
+
+This is a simple but vital rule in your code. When you git pull it updates your machine from all other commits people made.
+
+The reason this is so important is because if you and a group member change the same file and don’t git pull you are creating 2 different files in the same repo. This means one of your group member’s work has to be deleted. This is a foolish mistake which we unfortunately did by accident a few times
+
 ### Problems I experianced with Engine and Files
 
 Throughtout this trimester I had to solve many problems with my engine. Here are some of my struggles with my Kasm and Kali Linux
