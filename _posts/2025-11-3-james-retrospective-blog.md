@@ -115,6 +115,7 @@ The Reaper is a skeleton, armed with many different attacks. First he shoots arr
 ###  🏆 Victory Screen 🏆
 
 After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added this music to the final screen.
+
 ### Kanbans and Issues
 
 Kanban boards are an effective and helpful tool for keeping your group on track when working on a project. They work by taking a bunch of issues and splitting them into different sections. Issues are problems or objectives that you need to complete in your code. 
@@ -126,6 +127,12 @@ Imagine it like a bunch of sticky notes. Each sticky note has a goal written on 
 ### Biggest Tech Accomplishment
 
 My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
+
+![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth1.png "Image of ")
+
+![Alt text]({{site.baseurl}}/images/blogImages/ReaperHealth2.png "Image of Kanban Board")
+
+![Alt text]({{site.baseurl}}/images/blogImages/Reaper3.png "Image of Kanban Board")
 
 ### My Favorite Tech Accomplishment
 
