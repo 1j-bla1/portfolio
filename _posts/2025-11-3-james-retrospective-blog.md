@@ -63,6 +63,8 @@ Throughtout this trimester I had to solve many problems with my engine. Here are
 
 Image of Kasm glitch:
 
+![Kasm Break Screenshot](/images/blogImages/KasmBreakPicture.jpeg)
+
 2. A more recenent problem I expierenced was my make not working. The problem was caused by a juypter notebook file that had a space after the title. This goes to show how precise you have to be when coding because a little error like that can ruin your code.
 
 ## Sprint 2: Snake Game and Word Game Hack
@@ -119,7 +121,7 @@ Kanban boards are an effective and helpful tool for keeping your group on track 
 
 Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
 
-![]({{site.baseurl}}/images/blogImages/KasmBoardImage)
+![Kasm Break Screenshot](/images/blogImages/KanbanBoardImage.jpeg)
 
 ### Biggest Tech Accomplishment
 
