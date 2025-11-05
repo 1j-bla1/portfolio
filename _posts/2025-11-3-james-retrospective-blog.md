@@ -100,6 +100,67 @@ Link to Function Lesson:
 
 https://compsciteam.github.io/student/javascript/functions/tinkerers-lesson
 
+### Coding Concepts from Lessons
+
+### Variables:
+Variables are one of the most important concepts of coding. Variables are storages that keep track of values. Image it as a box. You can put a dollar inside the box. The box would then equal 1 dollar. It is the same for variables. You give the variables a value are you can use them throughout your 
+
+You can make a variable in Javascript by typing let const or var. Var is not recommended. Var and const are different since a const value is never allowed to change.
+
+Example of a Variable:
+
+`let name=”James”;`
+
+`const name=”James”;`
+
+### Arrays:
+Arrays are another important concept in our game. Arrays are a list of multiple different values which can then be called. Imagine you put multiple different fruits in a box. You then can take 1 or as many fruits as you want out of the box. This is similar to how an array works.
+
+Example of an Array:
+
+`let fruits = ["Apple", "Banana", "Orange, "Pear"] `
+
+### Booleans: 
+Booleans are a more simple concept. Booleans are things that can be true or false. To make a boolean you must first make a variable then make it equal true or false here's an example:
+
+`Let Correct_Password= false;`
+
+`Let Username = true;`
+
+Mathematical Expressions:
+Mathematical expressions are basically just math. In Javascript it follows the same rules as the math you do in school but has different signs then you would normally use.
+
+Basic Operators:
+
+`Addition: Use a plus sign (+)`
+
+`Subtraction: Use the minus sign (-)`
+
+`Multiplication= Use an asterisk (*)`
+
+`Division= Use a slash for division (/)`
+
+#### Complex Operators:
+
+Modulo:
+Modulo is a more complex type of math. When doing modulo you use the % symbol. When you do this it will look at your first number and then see how many times the second number can go into the first number. The amount left over from the second number is your answer.
+
+Example:
+
+`let first_number= 15 % 6;`
+
+In this example 6 goes into 15 twice. 15 - 12= 3. 3 is then remaining and is the answer.
+
+Exponents:
+To create an exponent instead of multiplying with one asterisk * you add 2 asterisks. This makes an exponent.
+
+Example:
+
+`let second_number: 5 ** 2;`
+
+This is read as 5 to the power of 2 which would get you 25.
+
+
 
 ## Sprint 3: Mansion Game
 
