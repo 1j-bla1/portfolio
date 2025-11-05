@@ -278,6 +278,10 @@ My Github Analytics:
 
 If me and my team were given more time to do our project I would want to add a few actions to our game. First of I would want to add a way for the player to heal mid boss fight. This would give the player a better chance. I would also want to give the reaper different attacks each stage he reaches. For example if the Reaper losses a certain amount of his health then he will lose his fireball attack and do something different. Lastly I would want to add more attack options for the player. The player could get the ability to block incoming projectiles are use a melee attack. These are some thing I want to add if we had more time with our project.
 
+### What I want to Learn next in Computer Science
+
+The next thing I want to learn is how to make more complex games. More complex games give more challenges for the player and is more to play. I also want to understand better more complex code such as the game engine. These are some thing I want to learn next time in Computer Science.
+
 ### Lessons I learned
 
 1. Throughout this project I learned many important skills when programming. First of all, you need to work effectively as a team. If your team becomes disorganized it will become a lot harder for you to succeed in your project. You need to stay on the same page so you don’t edit the same files at once. By doing this we had a successful team and were able to make a entire boss battle. 
