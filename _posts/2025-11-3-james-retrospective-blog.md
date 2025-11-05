@@ -266,6 +266,8 @@ Proof of my healthbar commits:
 
 Though I enjoyed creating the boss bar it was not my favorite commit of the game. My favorite addition I made to the game and my favorite addition this entire trimester was adding the music. The music was a very important part of our game as it made the player more immersed in the level. I ended up adding the beginning Legend of Zelda theme to the pre boss fight room and the final music on the victory screen. These changes made the game far more immersive and seeing the music I chose for the game being implemented was really fun.
 
+![Alt text]({{site.baseurl}}/images/blogImages/MusicCommit.png "Image of Music commits")
+
 ### Night at the Museum
 Night at the Museum was a fun experience and was a great opportunity to show off our game we created. Even though the room was loud and crowded we were able to present our boss fight and show all the mechanics we spent time creating. We got good feedback from parents and students alike which was overwhelmingly positive. In all, Night at the Museum was an enjoyable experience for us to see people enjoy our game we created.
 
