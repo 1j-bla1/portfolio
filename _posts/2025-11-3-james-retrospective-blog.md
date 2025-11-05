@@ -95,14 +95,17 @@ Our plan for the Mansion game was to make a final boss fight to escape the mansi
 #### Pre-Boss Fight Room
 In the pre-boss fight you find two zombie zpcs that will tell you different things. One talks about code while the other talks about the boss. The room also plays music which I added to the game. This makes the game more immersive. When you enter the double doors it will take you to the boss room. 
 
-#### How Pre-Boss Room Work
-Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room. My main contributions to this room was adding the music and adding a invisible sprite. This invisible sprite is what brings you to the next room.
+#### How pre Boss Room Works
+Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room. My main contributions to this room was adding the music and adding a invisible sprite. This invisible sprite is what you collide with to get to the next room.
 
-### Boss Room
-Once you enter the boss room it takes you to a boss fight. There is a boss called the repear who you will fight. There is also a change in music, and 2 health bards, 1 for the player and 1 for the boss. I added the boss health bar which changes color based on how low the boss health is.
+###  💀 Boss Room  💀
+Once you enter the boss room it takes you to a boss fight. There is a boss called the repear who you will fight. There is also a change in music, and 2 health bards, 1 for the player and 1 for the boss. I added the boss health bar which changes color based on how low the boss health is. The player can attack the boss which causes his health to go down.
+
+#### How Boss Room works
+The boss room works by using lots of collions. When you press space bar the player will shoot a arrow. If this arrow collides with the boss it will cause his health to go down. The health bar then moves since it is equivalent to the health of the boss. If the Reaper's attacks collides with the player then it will lower the players health and the his health bar will update.
 
 #### Reaper Boss
-The Reaper was a skeleton and and you fo
+The Reaper is a skeleton armed with many different attacks. First who shoots arrows and fireballs into the direction of the player. If they collide with the player then he will lose health.
 
 
 ### Kanbans and Issues
