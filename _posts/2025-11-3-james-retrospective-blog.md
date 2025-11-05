@@ -12,7 +12,9 @@ comments: True
 
 
 ## Learnings from Computer Science
-Through this trimester I have learned many things about coding and effective ways to use it. These strategies range from variables to kanban boards. In the beginning I was clueless of how computer science worked and struggled with getting my passwords set up. Now I have improved to the points where I can create many different linse of code. In this Blog I will show you some of the many things I have learned this trimester. 
+
+### Comparision to Beginning of the year
+Through this trimester I have learned many things about coding and effective ways to use it. These strategies range from variables to kanban boards. In the beginning I was clueless of how computer science worked and struggled with getting my passwords set up. Now I have improved to the points where I can create many different lines of code. In this Blog I will show you some of the many things I have learned this trimester. 
 
 ### Sprint 1: Machine Setup and Basic Fundamentals
 
@@ -98,16 +100,18 @@ In the pre-boss fight you find two zombie zpcs that will tell you different thin
 #### How pre Boss Room Works
 Our pre boss room works by doing using lots of collions. When you collide with the zombies and press e it will take you to dialouge. When you collide with the door and press e it brings you to the next room. My main contributions to this room was adding the music and adding a invisible sprite. This invisible sprite is what you collide with to get to the next room.
 
-###  💀 Boss Room  💀
+####  💀 Boss Room  💀
 Once you enter the boss room it takes you to a boss fight. There is a boss called the repear who you will fight. There is also a change in music, and 2 health bards, 1 for the player and 1 for the boss. I added the boss health bar which changes color based on how low the boss health is. The player can attack the boss which causes his health to go down.
 
 #### How Boss Room works
 The boss room works by using lots of collions. When you press space bar the player will shoot a arrow. If this arrow collides with the boss it will cause his health to go down. The health bar then moves since it is equivalent to the health of the boss. If the Reaper's attacks collides with the player then it will lower the players health and the his health bar will update.
 
 #### Reaper Boss
-The Reaper is a skeleton armed with many different attacks. First who shoots arrows and fireballs into the direction of the player. If they collide with the player then he will lose health.
+The Reaper is a skeleton, armed with many different attacks. First he shoots arrows and fireballs into the direction of the player. If they collide with the player then the player will lose health. If the player collides with the main body of the boss then the player will automatically die and be respawned. He takes damage from the player's arrows. When his health equals zero the game ends and the victory screen appears.
 
+###  🏆 Victory Screen 🏆
 
+After the Reaper health is equal to 0 the victory screen finally appears. It shows that you have finally beat the game and the music changes. I added this music to the final screen
 ### Kanbans and Issues
 
 Kanban boards are an effective and helpful tool for keeping your group on track when working on a project. They work by taking a bunch of issues and splitting them into different sections. Issues are problems or objectives that you need to complete in your code. 
