@@ -122,3 +122,8 @@ Imagine it like a bunch of sticky notes. Each sticky note has a goal written on 
 
 My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
 
+### My Favorite Tech Accomplishment
+
+Though I enjoyed creating the boss bar it was not my favorite commit of the game. My favorite addition I made to the game and my favorite addition this entire trimester was adding the music. The music was a very important part of our game as it made the player more immersed in the level. I ended up adding the beginning Legend of Zelda theme to the pre boss fight room and the final music on the victory screen. These changes made the game far more immersive and seeing the music I chose for the game being implemented was really fun.
+
+
