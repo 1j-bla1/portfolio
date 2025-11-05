@@ -122,6 +122,8 @@ Kanban boards are an effective and helpful tool for keeping your group on track 
 
 Imagine it like a bunch of sticky notes. Each sticky note has a goal written on it. You then place it onto a board with different sections to show how far the sticky notes are to completion. This is what a kanban board is.
 
+![Kasm Break Screenshot](/images/blogImages/KanbanBoardImage.png)
+
 ### Biggest Tech Accomplishment
 
 My biggest tech accomplishment that I made in the game was adding the boss bar to the reaper. This was a huge part of the game since it allowed the player to see how much health the final boss had. My code also made it to where the color of the boss bar changed each time it got lower and lower. Each 33 percent decrease in the boss color changed.
