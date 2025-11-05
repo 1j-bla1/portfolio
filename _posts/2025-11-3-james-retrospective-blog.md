@@ -196,6 +196,173 @@ Example:
 
 This is read as 5 to the power of 2 which would get you 25.
 
+### Conditionals:
+
+Conditionals are very important code and tracks if a condition is met. There are 3 different types of ways to make conditionals.
+
+ `if`
+ 
+ ` else if`
+
+   ` else`
+
+A If statements is where if a certain condition is met then something will happen
+An else if statement is when if a condition is false it then moves to the else false condition to see if it has reached its condition.
+Else if used if an if statement is false. For instance if a if condition is not met then it moves to else which would exact the else code till the if statement is met.
+
+ An example of a conditional in Javascript:
+
+`Let number=10;`
+
+`If (number==10){`
+
+`console.log(“The number is equal to 10”);`
+
+`} else {`
+
+`console.log(“The number is not equal to 10”);`
+
+`}`
+
+What this does is check if the variable number is equal to 10. If it is equal to 10 it will print that the number equals 10. If it does not equal ten then the else statement makes it print that the number is not 10
+
+### Iterations:
+
+Iterations are a loop that keeps games going infinitely till a condition is met. It uses the code to make it loop.
+
+Example of an Iteration:
+
+`For (let i = 0; i<5; i++){`
+
+`console.log(“The number is :” + i)`
+
+`}`
+
+What this code does is create a loop. It starts with i = 0. Each time the loop is run it is added to by 1. The condition to stop the game is i<5 . This loop repeats until i is no longer less than 5. This means it will stop when it is equal to 5.
+
+### Strings:
+
+Strings are a more simple concept in Javascript but can still be important. Strings are basically data that is text instead of numbers. To create a string you put quotation mark around it
+
+Example of a String:
+
+`Let name = “James”;`
+
+The string is “James” and is used since my name is not numbers but words.
+
+### Data Abstraction:
+
+Data abstraction is a concept where you hide part of the code by creating functions or other means of running your code. By doing this you don’t have to worry about the code inside a function but instead you can think about what it does instead
+
+Example of Data Abstraction:
+
+`class User { `
+
+`constructor(name,password) {`
+
+`this.name=name;`
+
+`this._password= password;`
+
+`}`
+
+`getName() { `
+
+`return this.name`
+
+`}`
+
+`passwordCheck (input){ `
+
+`return input === this._password`
+
+`}`
+
+`}`
+
+Instead of worrying about the code inside the class, by using data abstraction you can forget about it and think about what the function does as a whole. This makes it easier for coders to think more clearly when they have less code to think about. 
+
+### Classes and Constructors:
+
+Classes and constructors is another coding piece that is important since it creates objects. They do this by using the code class and constructor.
+
+Example of Classes and Constructors:
+
+`class Car {`
+
+`constructor(name, year){ `
+
+`this.name=name;`
+
+`this.year=year;`
+
+`}`
+
+`getDetails(){`
+
+`return “The ” + this.name + “is ” + this.year + “years old.”`
+
+`}`
+
+`}`
+
+`Const myCar = new Car(“Toyota”, 2015)`
+
+`Console.log (myCar.getDetails)`
+
+This code can now be used when calling the Car class. You can see you make a variable for the car class which says it is a Toyota made in 2025
+
+### Classes and Variables:
+Classes and variables are basically the same as classes and constructors instead the variables part is more focused on. Variables are an important part in coding and keep track of data.
+
+Example of Classes and Variables:
+
+`class Student{`
+
+`constructor(name, grade){`
+
+`this.name=name;`
+
+`this.grade=grade;`
+
+`}`
+
+`showInfo{`
+
+`console.log(this.name + “Has a grade of” + this.grade);`
+`}`
+`}`
+
+
+This class uses plenty of variable variables inside of its code.
+
+### Classes and Methods:
+
+Are the same thing with classes but use a new type of code called methods. Methods basically are a function inside of a class and shows what the object can do.
+
+Example of Classes and Methods:
+
+`class Person {`
+
+   `constructor(name, age) {`
+
+   `this.name = name;`
+
+  `this.age = age;`
+
+   `}`
+
+   `greet() {`
+
+   ` console.log("Hello! My name is " + this.name);`
+
+ `  }`
+
+`}`
+
+
+What this code does is make a class named Person and a method called greet. When you call the class and greet it will display this message to the console log.
+
 
 Link with all my Lesson Homeworks:
 
